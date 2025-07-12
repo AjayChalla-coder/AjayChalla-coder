@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjayChalla-coder
 - 👀 I’m interested in Coding(in c++ or c)
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me (clcik on this icon https://github.com/)
 - 😄 Pronouns: he/him
